@@ -606,6 +606,12 @@
 								</InputField>
 							</ChildItems>
 						</UsualGroup>
+						<InputField name="_СостояниеДоставки" id="3310">
+							<DataPath>Объект._СостояниеДоставки</DataPath>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="_СостояниеДоставкиКонтекстноеМеню" id="3311"/>
+							<ExtendedTooltip name="_СостояниеДоставкиРасширеннаяПодсказка" id="3312"/>
+						</InputField>
 						<InputField name="ВидОперации" id="1629" DisplayImportance="VeryHigh">
 							<DataPath>Объект.ВидОперации</DataPath>
 							<SkipOnInput>true</SkipOnInput>
